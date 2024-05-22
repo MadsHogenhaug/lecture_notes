@@ -194,9 +194,9 @@ GROUP_URLS = [
         "group o",
         "<name>",
         # Monitoring URL:
-        "<monitoring_url>",
+        "http://",
         # Security report URL:
-        "<security_report_url>",
+        "https://group-o-minitwit-2024.github.io/",
         # Logging URL:
         "<logging_url>",
         # SLA:
